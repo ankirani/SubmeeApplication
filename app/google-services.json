@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97173901517",
+    "project_id": "submee-dd8cf",
+    "storage_bucket": "submee-dd8cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97173901517:android:124b6e082c20d481b2d984",
+        "android_client_info": {
+          "package_name": "com.kirani.submee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97173901517-csssvpsclb2gbc7mfvli49qtu7mjphii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8ZvtsrMfXd16ovtl38eGQJ9yTKtUEyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97173901517-csssvpsclb2gbc7mfvli49qtu7mjphii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
